@@ -11,3 +11,5 @@
 
 9. git branch - выводит список веток / git branch (branch_name) - создание новой ветки
 10. git chekout/switch (branch_name) - переключение на указанную ветку
+
+11. git merge (branch_name) -добавляет изменения из указанной ветки в текущую, где сейчас находимся
